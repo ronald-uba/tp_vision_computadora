@@ -43,6 +43,7 @@ setuptools==44.1.1
 shiboken6==6.10.2
 six==1.17.0
 stack-data==0.6.3
+supervision==0.27.0.post2
 tornado==6.5.4
 traitlets==5.14.3
 typing_extensions==4.15.0
